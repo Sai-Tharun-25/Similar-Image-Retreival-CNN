@@ -19,3 +19,9 @@ Training an auto-encoder model to reconstruct the input images fed to the algori
 ![image](https://user-images.githubusercontent.com/92200301/228864735-d2e97c98-9169-4211-84d0-2236362ae964.png)
 ![image](https://user-images.githubusercontent.com/92200301/228864852-ef6dde19-35da-49ce-a2cb-82b43084df44.png)
 ![image](https://user-images.githubusercontent.com/92200301/228864961-fa6f13f4-f2bc-46e8-b6aa-74cfd5764378.png)
+
+## Training Conditions
+* **TRAINING DATASET SIZE:** 10% OF ORIGINAL PRODUCTS-10K DATA (15,000 IMAGES)​
+* **VALIDATION DATASET SIZE:** 9,000 IMAGES​
+* **NUMBER OF EPOCHS:** 1
+**Reduced size of data and training epochs due to hardware constraints.**
