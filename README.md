@@ -24,4 +24,5 @@ Training an auto-encoder model to reconstruct the input images fed to the algori
 * **TRAINING DATASET SIZE:** 10% OF ORIGINAL PRODUCTS-10K DATA (15,000 IMAGES)​
 * **VALIDATION DATASET SIZE:** 9,000 IMAGES​
 * **NUMBER OF EPOCHS:** 1
+
 **Reduced size of data and training epochs due to hardware constraints.**
