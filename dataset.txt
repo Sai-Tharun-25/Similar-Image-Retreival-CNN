@@ -1,0 +1,9 @@
+Dataset Used:
+
+PRODUCTS – 10K: LARGE SCALE PRODUCT RECOGNITION DATASET​
+JD AI RESEARCH
+
+Citation: Yalong Bai, Yuxiang Chen, Wei Yu, Linfang Wang, Wei Zhang. "Products-10K: A Large-scale Product Recognition Dataset". arxiv.org/abs/2008.10545
+
+To download dataset:
+https://products-10k.github.io/
